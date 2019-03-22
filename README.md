@@ -1,1 +1,7 @@
-# PHP
+# PHP  
+<? 
+
+ echo "ola mundo" 
+ 
+ ?>
+ 
